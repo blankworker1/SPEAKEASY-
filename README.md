@@ -281,7 +281,7 @@ A place to feel judged
 
 ---
 
-The Long-Term Vision
+### The Long-Term Vision
 
 Speakeasy starts as an in-person experience and grows into:
 
