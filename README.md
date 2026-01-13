@@ -66,7 +66,7 @@ No corrections.
 
 ---
 
-### THE SPEAKEASY EVENT FORMAT
+## THE SPEAKEASY EVENT FORMAT
 
 
 **1. Arrival & Transition — “The Flight”**
@@ -102,7 +102,6 @@ Participants symbolically cross a border.
 From this point on, English is encouraged throughout the event.
 
 
----
 
 **2. Entering the English Space**
 
@@ -120,7 +119,6 @@ No menus, no signs except: DRINKS
 This is the beginning of immersion.
 
 
----
 
 **3. Aperitivo Ice Breaker — The English Bar**
 
@@ -144,7 +142,6 @@ Everyone is encouraged to help each other — in English.
 Laughter is expected.
 
 
----
 
 **4. “Pack a Bag” — Gifts from Home**
 
@@ -184,8 +181,6 @@ It’s about carrying it with you — and sharing it.
 
 
 
----
-
 **5. Shared Content Moment**
 
 Each event includes a short shared stimulus, such as:
@@ -213,7 +208,6 @@ Discussed together
 Conversation happens naturally in small groups.
 
 
----
 
 **6. Open Conversation & Connection**
 
@@ -233,7 +227,7 @@ asking questions
 English is used as much as possible, without pressure.
 
 
----
+
 
 **7. Closing Moment**
 
@@ -251,7 +245,7 @@ Participants leave not with “new rules,” but with more confidence.
 
 ---
 
-### What Speakeasy Is — and Is Not
+## What Speakeasy Is — and Is Not
 
 Speakeasy is:
 
@@ -282,7 +276,7 @@ A place to feel judged
 
 ---
 
-### The Long-Term Vision
+## The Long-Term Vision
 
 Speakeasy starts as an in-person experience and grows into:
 
