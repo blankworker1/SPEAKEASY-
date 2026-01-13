@@ -21,7 +21,7 @@ You learn a language by living inside it, even for a short time.
 Each event creates a temporary, immersive environment where English becomes the natural language of communication — imperfect, human, playful, and shared.
 
 
----
+
 
 ### Core Goals
 
@@ -44,7 +44,7 @@ English is not taught.
 English is used.
 
 
----
+
 
 ### Who It’s For
 
@@ -67,6 +67,7 @@ No corrections.
 ---
 
 ### THE SPEAKEASY EVENT FORMAT
+
 
 **1. Arrival & Transition — “The Flight”**
 
